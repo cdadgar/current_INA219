@@ -2,14 +2,6 @@
  * INA219 DC current sensor 
  * 
  * 
- * part I have doesn't appear to work.
- * when I hook up vdd and gnd, the power rails drops from 3.3v to 2v...not good
- * ordered 2 more from china.
- * 
- * 
- * 
- * 
- * 
  * use library:
  * https://github.com/adafruit/Adafruit_INA219
  *
